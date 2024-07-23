@@ -8,7 +8,16 @@ NanoCard is a basic notecard review app that lets you:
 - Add new ones to the deck
 - Browse your decks
 
-NanoCard uses Python's built-in sqlite3 to store and retrieve the card decks.
+NanoCard uses Python's built-in sqlite3 to store and retrieve the card decks. 
+In its current build its best used for small, light material to review as its ability to let you edit your decks is relatively basic.
+
+## Future features
+
+If I revisit this project, there are a few tweaks I'd like to make:
+
+- Make better use of tkinter's grid features for a more dynamic interface
+- Deeper functions to edit and amend decks and cards
+- A spaced reptetition feature for better review of material
 
 ## Requirements
 - Python 3.12+
