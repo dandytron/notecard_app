@@ -1,7 +1,14 @@
-# NanoCard
+# NanoCard v. 0.8
 
 ## Description
-Brief description of your project.
+NanoCard is a basic notecard review app that lets you:
+
+- Create a deck of flashcards with anything on their front and back, card-by-card
+- Review those cards
+- Add new ones to the deck
+- Browse your decks
+
+NanoCard uses Python's built-in sqlite3 to store and retrieve the card decks.
 
 ## Requirements
 - Python 3.12+
